@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+.env
+
+#Python__pycache__/*.pyc.pytest_cache/
+
+#IDE.vscode/
+
+# Datadata/documents/*data/processed/*
+
+# Operating system .DS_Store Thumbs.db
+
